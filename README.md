@@ -3,3 +3,6 @@
 Stanford / Winter 2019
 
 Assigments and NLP project 
+
+
+### It would be finished at the end of June

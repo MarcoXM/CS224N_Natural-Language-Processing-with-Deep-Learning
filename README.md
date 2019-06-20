@@ -1,7 +1,7 @@
 # CS224n: Natural Language Processing with Deep Learning
 
 
-![](https://img.shields.io/liberapay/goal/60%.svg)
+![](http://progressed.io/bar/78?title=done)
 
 Stanford / Winter 2019
 
